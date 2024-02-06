@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shlomimach - Shlomi Machluf
-- 
+👋 Hi, I’m  Shlomi Machluf [@shlomimach]
+
 At 32, living in Yavne with my spouse and two children, my journey from a high school graduate of the "ADERET" Yeshiva in Bat Yam,
 through military service in logistics and computing, to a brief stint as a clothing store owner, has been diverse and enriching.
 
