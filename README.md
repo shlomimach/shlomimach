@@ -18,7 +18,7 @@ each project reflects my journey and passion for pushing the boundaries of what'
 
 
 I am keen to share more about my professional journey and experiences.
-Feel free to visit my LinkedIn profile at [www.linkedin.com/in/shlomi-machluf-54b2a815b](url).
+Feel free to visit my LinkedIn profile at [www.linkedin.com/in/shlomi-machluf-54b2a815b (url)].
 
 I welcome any feedback, questions, or comments you may have
 
