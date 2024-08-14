@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Shlomi Machluf [@shlomimach]
 
-At 32, living in Yavne with my spouse and two children, my journey from a high school graduate of the "ADERET" Yeshiva in Bat Yam, through military service in logistics and computing, to a brief stint as a clothing store owner, has been diverse and enriching.
+At 33, living in Yavne with my spouse and two children, my journey from a high school graduate of the "ADERET" Yeshiva in Bat Yam, through military service in logistics and computing, to a brief stint as a clothing store owner, has been diverse and enriching.
 
 The pivotal moment came post-military service, when I pursued my passion for technology by enrolling in a comprehensive 1200-hour .NET development course. Fortuitously, I joined 'Twoteam' Company - a leading company in the insurance and finance sector - immediately after completing my course.
 
