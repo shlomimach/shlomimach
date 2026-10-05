@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Shlomi Machluf [@shlomimach]
 
-At 33, living in Yavne with my spouse and two children, my journey from a high school graduate of the "ADERET" Yeshiva in Bat Yam, through military service in logistics and computing, to a brief stint as a clothing store owner, has been diverse and enriching.
+At 33, living in Yavne with my wife and two children, my journey from a high school graduate of the "ADERET" Yeshiva in Bat Yam, through military service in logistics and computing, to a brief stint as a clothing store owner, has been diverse and enriching.
 
 The pivotal moment came post-military service, when I pursued my passion for technology by enrolling in a comprehensive 1200-hour .NET development course. Fortuitously, I joined 'Twoteam' Company - a leading company in the insurance and finance sector - immediately after completing my course.
 
@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 👋 היי, אני שלומי מכלוף [@shlomimach]
 
-בן 33, מתגורר ביבנה עם בת זוגי ושני ילדיי. המסע שלי מבוגר ישיבת "אדרת" בבת ים, דרך שירות צבאי בלוגיסטיקה ומחשוב, ועד לתקופה קצרה כבעל חנות בגדים, היה מגוון ומעשיר.
+בן 33, מתגורר ביבנה עם אישתי ושני ילדיי. המסע שלי מבוגר ישיבת "אדרת" בבת ים, דרך שירות צבאי בלוגיסטיקה ומחשוב, ועד לתקופה קצרה כבעל חנות בגדים, היה מגוון ומעשיר.
 
 נקודת המפנה הגיעה לאחר השירות הצבאי, כשהחלטתי לממש את התשוקה שלי לטכנולוגיה והצטרפתי לקורס פיתוח .NET מקיף של 1200 שעות. למזלי, מיד לאחר סיום הקורס הצטרפתי לחברת 'Twoteam' - חברה מובילה בתחום הביטוח והפיננסים.
 
